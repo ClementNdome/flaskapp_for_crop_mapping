@@ -63,7 +63,6 @@ This project can be deployed using:
 ## License
 **This project is proprietary and confidential.**
 - Unauthorized use, distribution, or modification is strictly prohibited.
-- The code and associated materials belong to the respective company.
 - Access is restricted to authorized personnel only.
 
 ## Author
